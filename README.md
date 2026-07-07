@@ -26,17 +26,7 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RahulChavan-ENTC&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulChavan-ENTC&layout=compact&theme=radical)
-
-![](https://streak-stats.demolab.com?user=RahulChavan-ENTC&theme=radical)
-
-![](https://github-profile-trophy.vercel.app/?username=RahulChavan-ENTC&theme=radical)
-
-![](https://komarev.com/ghpvc/?username=RahulChavan-ENTC&label=Profile+Views)
 
 ## 🌐 Connect with me
 
