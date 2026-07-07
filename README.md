@@ -10,7 +10,7 @@
 - 📊 Passionate Data Analyst
 - 🐍 Learning Python & SQL
 - 📈 Building Interactive Dashboards
-- - 📊 Skilled in Tableau for creating interactive dashboards and data visualizations.
+- 📊 Skilled in Tableau for creating interactive dashboards and data visualizations.
 - 📉 Love Data Visualization
 - 🇯🇵 JLPT N5 Learner
 - 🚀 Always Learning New Skills
