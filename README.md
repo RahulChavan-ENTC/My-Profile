@@ -36,4 +36,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:rahulchavan.sknscoe.entc0216@gmail.com)
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/rahul.chavan8372/vizzes))
+## 📊 Tableau Public
+
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rahul.chavan8372/vizzes)
