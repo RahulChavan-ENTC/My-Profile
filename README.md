@@ -27,6 +27,7 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](YOUR_TABLEAU_LINK)
 
 
 ## 🌐 Connect with me
@@ -34,3 +35,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rahul-chavan-7aa7152a3/))
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:rahulchavan.sknscoe.entc0216@gmail.com)
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/rahul.chavan8372/vizzes))
